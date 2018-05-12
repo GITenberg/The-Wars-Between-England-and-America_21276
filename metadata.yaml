@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9819'
     url: http://www.gutenberg.org/2009/agents/9819
 description: Om krigen mellem USA og England 1775-1783 og 1812-1815
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21276#The-Wars-Between-England-and-America
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-05-02'
 gutenberg_type: Text
